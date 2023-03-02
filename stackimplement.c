@@ -28,9 +28,9 @@ int pop() {
 
 // Main function to test the stack implementation
 int main() {
-    push(10); // Push 10 onto the stack
-    push(20); // Push 20 onto the stack
-    push(30); // Push 30 onto the stack
+    push(50); // Push 10 onto the stack
+    push(30); // Push 20 onto the stack
+    push(40); // Push 30 onto the stack
 
 
     printf("%d\n", pop()); // Pop and print the top element (30)
